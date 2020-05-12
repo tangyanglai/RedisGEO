@@ -1,0 +1,26 @@
+# git ignore file
+/backup/
+Nuget/
+bin/
+代码生成工具/Code/
+obj/
+Logs/
+52abp_code_power/
+.vscode/
+*.[pdb]
+*.suo
+*.user
+WeiXinMPSDK.zip
+WeiXinMPSDK_v1.zip
+bak.zip
+*.pdb
+*.tmp
+nuget.exe
+#/Tools/*
+*.DotSettings
+.vs
+applicationhost.config
+packages/
+*.nupkg
+*.nuspec
+
